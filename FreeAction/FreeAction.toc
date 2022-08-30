@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: FreeAction
+## Version: 1.1
+## Author: Яйцедав-WoWCircle-x100
+## SavedVariables: FA_Conf
+
+
+libs\LibTalentQuery-1.0\LibTalentQuery-1.0.lua
+libs\LibGroupTalents-1.0\LibGroupTalents-1.0.lua
+
+FreeAction.lua
